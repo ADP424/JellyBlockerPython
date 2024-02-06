@@ -8,8 +8,8 @@ from pynput.keyboard import Listener, KeyCode
 import random
 
 from GUI import GUI
-from controller.JellyBlocker import JellyBlocker
-from model.Jelly import Jelly
+from JellyBlocker import JellyBlocker
+from Jelly import Jelly
 
 class CommandLineGUI(GUI):
 

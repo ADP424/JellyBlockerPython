@@ -1,6 +1,6 @@
 import random
 
-from model.Jelly import Jelly, JellyBlock
+from Jelly import Jelly, JellyBlock
 
 class Board:
     """

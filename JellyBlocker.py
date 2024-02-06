@@ -1,4 +1,3 @@
-import sys
 from time import sleep
 
 from Board import Board

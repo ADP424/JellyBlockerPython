@@ -1,7 +1,7 @@
 import sys
 from pynput.keyboard import Key, Listener, KeyCode
 
-from controller.JellyBlocker import JellyBlocker
+from JellyBlocker import JellyBlocker
 
 class GUI:
     """
