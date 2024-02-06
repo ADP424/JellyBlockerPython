@@ -1,0 +1,2 @@
+INSTALL:
+- pip install pynput
